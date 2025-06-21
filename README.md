@@ -1,3 +1,7 @@
+ https://2a27790ada4470e62b.gradio.live  (To use it live)
+
+
+
 Medical Imaging AI: Cancer Detection System(USING SYNTHETIC DATA)
 
 Overview
